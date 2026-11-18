@@ -8,7 +8,7 @@ on. This modular structure makes it easy to see how each physical process
 contributes to the final result, and to swap or refine a single model
 without touching the others.
 
-.. figure:: figures/framework.png
+.. figure:: figures/Framework.png
    :alt: Overview of the modelling framework
    :align: center
    :width: 100%
