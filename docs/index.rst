@@ -8,3 +8,4 @@ Welcome to the documentation for My Test Project.
    :caption: Contents:
 
    installation
+   Methodology
