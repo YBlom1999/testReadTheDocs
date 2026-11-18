@@ -9,5 +9,7 @@ Welcome to the documentation for My Test Project.
 
    installation
    Methodology
+   Tutorial
    Examples
    RelevantLiterature
+   Acknowledgements
