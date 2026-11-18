@@ -19,14 +19,14 @@ Python code
 ~~~~~~~~~~~
 
 The script below runs the study. The file is stored in
-``docs/example_scripts/example_1.py``.
+``docs/example_scripts/examprunExampleVaryThicknessle_1.py``.
 
 .. literalinclude:: example_scripts/runExampleVaryThickness.py
    :language: python
    :linenos:
    :caption: runExampleVaryThickness.py
 
-You can also download the script: :download:`example_1.py <example_scripts/runExampleVaryThickness.py>`.
+You can also download the script: :download:`runExampleVaryThickness.py <example_scripts/runExampleVaryThickness.py>`.
 
 Results
 ~~~~~~~
@@ -57,14 +57,14 @@ Python code
 ~~~~~~~~~~~
 
 The script below runs the study. The file is stored in
-``docs/example_scripts/example_2.py``.
+``docs/example_scripts/runExampleVaryTilt.py``.
 
 .. literalinclude:: example_scripts/runExampleVaryTilt.py
    :language: python
    :linenos:
    :caption: runExampleVaryTilt.py
 
-You can also download the script: :download:`example_2.py <example_scripts/runExampleVaryTilt.py>`.
+You can also download the script: :download:`runExampleVaryTilt.py <example_scripts/runExampleVaryTilt.py>`.
 
 Results
 ~~~~~~~
