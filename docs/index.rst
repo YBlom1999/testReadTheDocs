@@ -1,7 +1,7 @@
 My Project
 ==========
 
-Welcome to the documentation for My Project.
+Welcome to the documentation for My Test Project.
 
 .. toctree::
    :maxdepth: 2
