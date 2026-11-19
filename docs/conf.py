@@ -36,7 +36,7 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 # -- Options for HTML output -------------------------------------------------
 
 html_theme = "sphinx_rtd_theme"  # requires sphinx-rtd-theme in docs/requirements.txt
-html_static_path = ["_static"]
+html_static_path = ["_static"]  # create docs/_static/ before enabling
 html_css_files = ["custom.css"]
 # html_logo = "_static/logo.png"
 # html_title = project
