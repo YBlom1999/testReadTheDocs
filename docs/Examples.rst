@@ -19,7 +19,7 @@ Python code
 ~~~~~~~~~~~
 
 The script below runs the study. The file is stored in
-``docs/example_scripts/examprunExampleVaryThicknessle_1.py``.
+``docs/example_scripts/runExampleVaryThicknessle_1.py``.
 
 .. literalinclude:: example_scripts/runExampleVaryThickness.py
    :language: python
@@ -102,7 +102,7 @@ The script below runs the study. The file is stored in
    :linenos:
    :caption: runExampleSBR.py
 
-You can also download the script: :download:`runExampleVaryTilt.py <example_scripts/runExampleSBR.py>`.
+You can also download the script: :download:`runExampleSBR.py <example_scripts/runExampleSBR.py>`.
 
 Results
 ~~~~~~~
