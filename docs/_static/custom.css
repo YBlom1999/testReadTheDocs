@@ -1,0 +1,5 @@
+/* Limit the height of captioned code blocks and make them scrollable */
+div.literal-block-wrapper div[class*="highlight-"] {
+    max-height: 400px;   /* change to taste */
+    overflow-y: auto;
+}
