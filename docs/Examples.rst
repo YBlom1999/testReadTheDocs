@@ -84,3 +84,42 @@ Results
 
    Description of the second figure of example 2. Explain what is shown on
    the axes and what the main conclusion is.
+
+Example 3: Title of the third study
+------------------------------------
+
+Short description of the thrid study. Explain the goal, how it differs from
+the first example, and which settings or parameters are changed.
+
+Python code
+~~~~~~~~~~~
+
+The script below runs the study. The file is stored in
+``docs/example_scripts/runExampleSBR.py``.
+
+.. literalinclude:: example_scripts/runExampleSBR.py
+   :language: python
+   :linenos:
+   :caption: runExampleSBR.py
+
+You can also download the script: :download:`runExampleVaryTilt.py <example_scripts/runExampleSBR.py>`.
+
+Results
+~~~~~~~
+
+.. figure:: figures/ExampleSBRdaily.png
+   :alt: Description of the first result of example 2
+   :align: center
+   :width: 80%
+
+   Description of the first figure of example 2. Explain what is shown on
+   the axes and what the main conclusion is.
+
+.. figure:: figures/ExampleSBRtotal.png
+   :alt: Description of the second result of example 2
+   :align: center
+   :width: 80%
+
+   Description of the second figure of example 2. Explain what is shown on
+   the axes and what the main conclusion is.
+
