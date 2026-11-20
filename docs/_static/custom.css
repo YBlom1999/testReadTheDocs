@@ -8,3 +8,12 @@ div.literal-block-wrapper div[class*="highlight-"] {
 .wy-nav-content {
     max-width: none !important;   /* use "none" for the full window width */
 }
+
+/* Limit the size of figures */
+.rst-content figure img,
+.rst-content .figure img {
+    max-width: 700px;    /* never wider than this */
+    max-height: 500px;   /* optional: never taller than this */
+    width: auto;
+    height: auto;
+}
