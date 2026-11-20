@@ -30,7 +30,7 @@ propagating in forward and backward direction are shown. In addition, the
 absorptance :math:`A_{inc}` in the incoherent layer is shown, at which the
 stacks are merged.
 
-.. image:: figures/optics1.png
+.. image:: ../figures/optics1.png
    :width: 350px
    :align: center
    :alt: Two partial stacks connected by an incoherent layer
@@ -59,7 +59,7 @@ Next, the transmittance is derived in an analogous way, which leads to:
    + \sum_{j}{T_{f1}\cdot\left(\left[\ldots\right]R_{b1}\right)^j
    \left(1-A_{inc}\right)T_{f2}}
 
-.. image:: figures/optics2.png
+.. image:: ../figures/optics2.png
    :width: 800px
    :align: center
    :alt: Ray paths in the joined stack
@@ -102,7 +102,7 @@ the above layer(s) / layer stack. In the above architecture with 3 incoherent
 layers, texturing the last (3) incoherent layer will lead to the following
 scenario:
 
-.. image:: figures/optics3.png
+.. image:: ../figures/optics3.png
    :width: 450px
    :align: center
    :alt: Textured last incoherent layer
