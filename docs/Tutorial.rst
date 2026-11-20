@@ -26,6 +26,7 @@ predefined sets of settings that can be defined in the YAML file (see
 
 Additional arguments
 ~~~
+
 Write something about the arguments
 
 Config file
