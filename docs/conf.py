@@ -3,9 +3,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "My Project"
-author = "Your Name"
-copyright = "2026, Your Name"
+project = "EYCalcPlus"
+author = "KIT + HZB"
+copyright = "2026, KIT + HZB"
 release = "0.1.0"  # full version, e.g. "1.2.3"
 version = "0.1"  # short X.Y version
 

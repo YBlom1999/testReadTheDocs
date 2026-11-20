@@ -1,7 +1,7 @@
-My Project
+EYCalcPlus
 ==========
 
-Welcome to the documentation for My Test Project.
+Welcome to the documentation for EYCalcPlus.
 
 .. toctree::
    :maxdepth: 2
