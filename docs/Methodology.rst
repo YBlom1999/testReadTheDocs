@@ -45,6 +45,7 @@ the incoming solar power over wavelength, for every time step in the TMY.
 This spectral resolution matters because the performance of PV devices,
 especially multi-junction devices, depends on the spectrum of the incident
 light.
+
 .. toctree::
    :maxdepth: 1
 
@@ -57,6 +58,7 @@ The illumination model translates the spectral irradiance into the
 irradiance that actually reaches the module. It takes the module parameters
 (for example its orientation and tilt) into account. Its output is passed to
 both the thermal and the electrical model.
+
 .. toctree::
    :maxdepth: 1
 
@@ -71,6 +73,7 @@ fraction of light absorbed in the device as a function of wavelength. The
 absorptance is used by the thermal model to determine how much heat is
 generated, and by the electrical model to determine how much current can be
 generated.
+
 .. toctree::
    :maxdepth: 1
 
@@ -84,6 +87,7 @@ absorptance from the optical model, the received irradiance from the
 illumination model and a set of thermal parameters. The resulting module
 temperature affects the electrical performance, so it is passed on to the
 electrical model.
+
 .. toctree::
    :maxdepth: 1
 
@@ -96,6 +100,7 @@ The electrical model is the final step. It combines the absorptance, the
 received irradiance, the module temperature and a set of electrical
 parameters to calculate the electrical output of the module. Summed over
 the full TMY, this gives the energy yield.
+
 .. toctree::
    :maxdepth: 1
 
