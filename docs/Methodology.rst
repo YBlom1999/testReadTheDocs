@@ -64,6 +64,11 @@ absorptance is used by the thermal model to determine how much heat is
 generated, and by the electrical model to determine how much current can be
 generated.
 
+.. toctree::
+   :maxdepth: 1
+
+   Methodology/OpticalModel
+
 Thermal model
 ~~~~~~~~~~~~~
 
